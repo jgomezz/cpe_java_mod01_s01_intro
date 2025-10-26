@@ -4,7 +4,7 @@ public class Ejercicio_04 {
 
     /**
      *
-     * Ejercicio 4: Calcular la soluci-on de una ecuacion cuadratica
+     * Ejercicio 4: Calcular la solución de una ecuación cuadrática
      *               2
      *     f(x) =  ax + bx + c
      *
