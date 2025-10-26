@@ -1,22 +1,31 @@
 package pe.edu.tecsup._01.sintaxis;
 
+/**
+ *  Conversiones de tipo (casting)
+ */
 public class E_Conversion {
 
+    /**
+     *
+     *
+     *
+     * @param args
+     */
 	public static void main(String[] args) {
 		
-//		byte longitud = 10;
-//		
-//		long longitud2 = longitud;
-//		
-//		System.out.println(longitud2);
+//		byte vaso = 10;   // 1 byte
+//
+//		long balde = vaso; // 4 byte
+//
+//		System.out.println(balde);
 
-		long latitud = 20000;
+
+		long balde = 20000;
 		
-		byte latitud2 = (byte)latitud;	// verificar primero con un if 
+		byte vaso = (byte)balde;	// verificar primero con un if
 		
-		System.out.println(latitud2);
-		
-		
+		System.out.println(vaso);
+
 	}
 	
 }
