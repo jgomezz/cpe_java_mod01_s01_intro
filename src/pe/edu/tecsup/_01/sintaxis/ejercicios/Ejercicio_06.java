@@ -4,7 +4,7 @@ public class Ejercicio_06 {
 
     /**
      *
-     * Ejercicio 6: Crear un logica booleana
+     * Ejercicio 6: Crear un lógica booleana
      *
      *     - Evaluar que una persona sea mayor edad en Perú
      *     - Tiene documento de identidad
