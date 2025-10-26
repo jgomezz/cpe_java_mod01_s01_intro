@@ -4,7 +4,7 @@ public class G_6_OperadorCondicion {
 
 	public static void main(String[] args) {
 		
-		int a = 150;
+		int a = 50;
 		
 		
 		// EXPRESION BOOLEANA ?  

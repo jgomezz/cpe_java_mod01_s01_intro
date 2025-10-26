@@ -13,11 +13,12 @@ public class H_Condicionales {
 		 * 
 		 * 
 		 */
-		
-		
-		float salario = 1000f;
 
-		if ( salario < 1500) {
+        final float SALARIO_MINIMO = 1000f;
+		
+		float salario = 800f;
+
+		if ( salario < SALARIO_MINIMO) {
 			System.out.println("IF : No paga impuestos");
 		}
 		
@@ -36,7 +37,7 @@ public class H_Condicionales {
 		
 		float salario2 = 2000f;
 
-		if ( salario2 < 1500) {
+		if ( salario2 < SALARIO_MINIMO) {
 			System.out.println("IF ELSE : No paga impuestos");
 		} else {
 			System.out.println("IF ELSE : Paga impuestos y es S/" + salario2*0.2);
@@ -63,7 +64,7 @@ public class H_Condicionales {
 		
 		float salario3 = 20000f;
 
-		if ( salario3 < 1500) {
+		if ( salario3 < SALARIO_MINIMO) {
 			System.out.println("IF ELSE IF : No paga impuestos");
 
 		} else if ( salario3 < 10000 ){
