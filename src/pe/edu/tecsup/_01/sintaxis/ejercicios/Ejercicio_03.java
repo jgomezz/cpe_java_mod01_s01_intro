@@ -1,0 +1,18 @@
+package pe.edu.tecsup._01.sintaxis.ejercicios;
+
+public class Ejercicio_03 {
+
+    /**
+     *
+     * Ejercicio 4: Hallar el area de un circulo , si se conoce el radio
+     *
+     *     AREA = PI * radio * radio
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
+
+    }
+
+
+}

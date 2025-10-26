@@ -9,9 +9,9 @@ public class F_Constante {
 		numero1 = 30;
 		
 		// Declaracion de una constante
-		final float NUMERO_PI = 3.1415F;
+		final float PI = 3.1415F;
 		
-		// NUMERO_PI = 3.141;	// error
+		// PI = 3.141;	// error
 
 	}
 
