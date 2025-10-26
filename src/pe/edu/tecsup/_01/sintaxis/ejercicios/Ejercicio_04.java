@@ -8,6 +8,8 @@ public class Ejercicio_04 {
      *               2
      *     f(x) =  ax + bx + c
      *
+     *     Los valores de entrada son a, b y c
+     *
      * @param args
      */
     public static void main(String[] args) {
