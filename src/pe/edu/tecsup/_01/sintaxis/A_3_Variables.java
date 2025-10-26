@@ -2,7 +2,7 @@ package pe.edu.tecsup._01.sintaxis;
 
 import java.math.BigDecimal;
 
-public class A_Variables3 {
+public class A_3_Variables {
 
 	public static void main(String[] args) {
 		

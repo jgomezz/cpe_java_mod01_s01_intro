@@ -1,6 +1,6 @@
 package pe.edu.tecsup._01.sintaxis;
 
-public class A_Variables1 {
+public class A_1_Variables {
 
 	public static void main(String[] args) {
 		
