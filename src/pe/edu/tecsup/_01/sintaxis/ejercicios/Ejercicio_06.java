@@ -13,7 +13,15 @@ public class Ejercicio_06 {
      * @param args
      */
     public static void main(String[] args) {
+        int edad = 20;
+        boolean tieneDNI = true;
+        boolean esDeNoche = true;
 
+
+        boolean esMayorEdad = edad >= 18;
+
+
+        boolean puedeSerIntervenido = esMayorEdad && tieneDNI && esDeNoche;
 
     }
 
