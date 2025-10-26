@@ -12,6 +12,12 @@ public class Ejercicio_03 {
      */
     public static void main(String[] args) {
 
+        final float PI = 3.1415f;
+        int radio = 5 ;
+        double area = PI * radio * radio;
+
+        System.out.printf("Area del circulo: %.4f ", area);
+
     }
 
 
