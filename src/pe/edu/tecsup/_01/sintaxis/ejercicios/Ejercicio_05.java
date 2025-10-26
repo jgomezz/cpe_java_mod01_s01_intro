@@ -27,7 +27,7 @@ public class Ejercicio_05 {
         double dividir = x/3;
 
         System.out.println(x);
-        System.out.println(dividir);
+        System.out.printf("Resultado final: %.2f%n", dividir);
 
 
     }
