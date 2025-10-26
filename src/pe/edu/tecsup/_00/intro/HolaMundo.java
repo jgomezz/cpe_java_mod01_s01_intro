@@ -1,0 +1,9 @@
+package pe.edu.tecsup._00.intro;
+
+public class HolaMundo {
+
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+    }
+
+}
