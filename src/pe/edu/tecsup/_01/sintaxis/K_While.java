@@ -6,7 +6,7 @@ public class K_While {
 		
 		int counter = 10;
 		
-		while(counter > 0) {
+		while(counter >= 0) {
 			
 			/*
 			if(counter == 5) {
