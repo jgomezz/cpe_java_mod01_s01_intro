@@ -15,12 +15,9 @@ public class Ejercicio_12_for {
 
         // ( INICIALIZACION, EXP. BOOLEANA, SENTENCIA)
         for (int nro = 20 ;  nro <= 40 ; nro ++ ) {
-            System.out.println(nro);
+            if (nro % 4 != 0) {
+                System.out.println(nro);
+            }
         }
-
-
-
-
     }
-
 }
