@@ -8,7 +8,7 @@ public class K_While {
 		
 		while(counter >= 0) {
 			
-			/*
+			//*
 			if(counter == 5) {
 				break;	// Sale del bloque de flujo
 			}
@@ -16,7 +16,7 @@ public class K_While {
 			
 			counter--;
 			
-			/*
+			///*
 			if(counter == 6 || counter == 5 || counter == 4) {
 				continue;	// Salta a la siguiente iteracion
 			}
