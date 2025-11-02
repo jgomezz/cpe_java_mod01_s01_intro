@@ -3,6 +3,7 @@ package pe.edu.tecsup._01.sintaxis.ejercicios;
 public class Ejercicio_13_array {
 
     /**
+     *  Calcular el promedio de nota de cada curso
      *
      * @param args
      */
