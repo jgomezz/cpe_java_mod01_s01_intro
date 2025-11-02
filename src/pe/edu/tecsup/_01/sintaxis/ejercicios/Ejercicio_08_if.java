@@ -11,6 +11,29 @@ public class Ejercicio_08_if {
      * @param args
      */
     public static void main(String[] args) {
+        final int DIA = 2;
+
+        if (DIA == 1) {
+            System.out.println("Lunes");
+        } else {
+            if (DIA == 2) {
+                System.out.println("Martes");
+            } else {
+                System.out.println("No registrado");
+            }
+        }
+
+        int diaSemana = 2;
+
+        if(diaSemana == 1) {
+            System.out.println("Lunes");
+        } else if (diaSemana == 2) {
+            System.out.println("Martes");
+        } else {
+            System.out.println("No registrado");
+
+        }
+
 
 
     }
