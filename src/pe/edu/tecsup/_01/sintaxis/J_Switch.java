@@ -22,19 +22,19 @@ public class J_Switch {
 		dia = 1;
 		
 		switch (dia) {
-		case 1:
-		case 3:
-		case 5:
-			System.out.println("Estoy estudiando");
-			break;
-		case 2:
-		case 4:
-		case 6:
-			System.out.println("Estoy trabajando");
-			break;
-		default:
-			System.out.println("es Domingo");
-			break;
+            case 1:
+            case 3:
+            case 5:
+                System.out.println("Estoy estudiando");
+                break;
+            case 2:
+            case 4:
+            case 6:
+                System.out.println("Estoy trabajando");
+                break;
+            default:
+                System.out.println("es Domingo");
+                break;
 		}
 		
 		/*
