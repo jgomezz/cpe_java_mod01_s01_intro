@@ -13,8 +13,7 @@ public class Ejercicio_11_while {
      *
      *
      *  CASO 2 :
-     *   Si hubiese un numero primo, la impresión se detiene
-     *   23,29,31,37
+     *   La impresión se detiene si localiza el numero primo 31
      *
      *  NOTA : Para salir de un bucle se usa la sentencia break;     *
      * @param args
@@ -24,6 +23,10 @@ public class Ejercicio_11_while {
         int numero = 20; // empezamos justo después de 20
 
         while (numero <= 40) { // hasta justo antes de 40
+
+            if (numero == 31 )
+                break;
+
             /*
             switch (numero) {
                 case 23,29,31,37 : break;
@@ -31,8 +34,8 @@ public class Ejercicio_11_while {
             }*/
 
             if (numero == 23 ||
-                    numero == 21 ||
-                    numero == 29||
+                    numero == 29 ||
+                    numero == 31||
                     numero == 37 ) {
 
             } else {
