@@ -103,15 +103,33 @@ public class H_Condicionales {
 
 
 		
-	/*	
-		String diaS = "Lunes";
+	/*
+		String diaS =  "Lunes";
 		
-		if(diaS == "Lunes") {
+		//if(diaS == "Lunes") {
+        if("Lunes".equals(diaS)){
 			System.out.println("Ir al  trabajo");
 		} else {
-			System.out.println("Trabajo en casa");
+			System.out.println("Estar en casa");
 		}
-*/
+//*/
+
+        if(true){
+            if (false){
+                if (false ||  !true) {
+
+                }
+            }
+
+            if (true){
+
+            }
+        }
+
+
 	}
+
+
+
 
 }
