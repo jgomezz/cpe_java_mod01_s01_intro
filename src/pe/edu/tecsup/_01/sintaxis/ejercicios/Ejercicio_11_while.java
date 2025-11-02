@@ -7,12 +7,16 @@ public class Ejercicio_11_while {
      *  Imprimir los número enteros entre 20 y 40
      *  inclusive el 20 y el 40
      *
-     *  Exception :
-     *   Si hubiese un numero primo, la impresion se detiene
+     *  CASO 1 :
+     *   Si hubiese un numero primo, el número no se imprime
      *   23,29,31,37
      *
-     *  NOTA : Para salir de un bucle se usa la sentencia break;
      *
+     *  CASO 2 :
+     *   Si hubiese un numero primo, la impresión se detiene
+     *   23,29,31,37
+     *
+     *  NOTA : Para salir de un bucle se usa la sentencia break;     *
      * @param args
      */
     public static void main(String[] args) {
