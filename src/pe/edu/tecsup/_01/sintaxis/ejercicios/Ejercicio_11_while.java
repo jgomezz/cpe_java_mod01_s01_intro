@@ -24,8 +24,27 @@ public class Ejercicio_11_while {
         int numero = 20; // empezamos justo después de 20
 
         while (numero <= 40) { // hasta justo antes de 40
-            System.out.println(numero);
+            /*
+            switch (numero) {
+                case 23,29,31,37 : break;
+                default:System.out.println(numero);
+            }*/
+
+            if (numero == 23 ||
+                    numero == 21 ||
+                    numero == 29||
+                    numero == 37 ) {
+
+            } else {
+                System.out.println(numero);
+            }
+
+
             numero++; // aumentar en 1
+
+
+
+
         }
     }
 
